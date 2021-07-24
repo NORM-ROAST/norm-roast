@@ -1,0 +1,5 @@
+main:
+  - title: "Updates"
+    url: /updates/index
+  - title: "About"
+    url: /about/

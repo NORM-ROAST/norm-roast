@@ -1,0 +1,18 @@
+Marko Luther:
+  name     : "Marko Luther"
+  avatar   : "/assets/images/MarkoLuther.jpg"
+  bio      : "maintainer"
+  location : "Germany"
+  links:
+    - label: "artisan.plus"
+      icon: "fas fa-fw fa-link"
+      url: "https://artisan.plus"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/marko.luther/"
+
+Dave Baxter:
+  name     : "Dave Baxter"
+  avatar   : "/assets/images/DaveBaxter.png"
+  bio      : "genius"
+  location : "SF, USA"
