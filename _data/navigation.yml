@@ -1,6 +1,8 @@
 main:
   - title: "Requirements"
     url: /requirements/
+  - title: "Problems"
+    url: /problems/
   - title: "Updates"
     url: /updates/index
   - title: "About"
