@@ -9,9 +9,6 @@ toc_icon: "cog"
 ---
 
 
-
-## Problems
-
 To make the energy consumption and emissions accross different roasting machines comparable, any standardized roast process has to tackle a number of problems.
 
 * **P1: Beans**  

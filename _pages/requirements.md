@@ -9,9 +9,6 @@ toc_icon: "cog"
 ---
 
 
-
-## Requirements
-
 The following requirements have to be fulfilled by a any useful standard process for determining the levels of pollutants, CO2 emissions and energy consumption of small to mid-size coffee roasting machines
 
 * **R1: repeatable**  
