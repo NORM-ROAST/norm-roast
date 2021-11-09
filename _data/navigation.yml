@@ -1,4 +1,6 @@
 main:
+  - title: "Requirements"
+    url: /requirements/
   - title: "Updates"
     url: /updates/index
   - title: "About"
