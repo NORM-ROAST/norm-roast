@@ -2,7 +2,7 @@
 layout: single
 permalink: /problems/
 title: "Problems"
-toc: true
+toc: false
 toc_sticky: true
 toc_label: "On this page"
 toc_icon: "cog"

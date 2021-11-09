@@ -3,7 +3,7 @@ layout: single
 permalink: /requirements/
 title: "Requirements"
 toc: true
-toc_sticky: true
+toc_sticky: false
 toc_label: "On this page"
 toc_icon: "cog"
 ---
