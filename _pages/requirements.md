@@ -2,8 +2,8 @@
 layout: single
 permalink: /requirements/
 title: "Requirements"
-toc: true
-toc_sticky: false
+toc: false
+toc_sticky: true
 toc_label: "On this page"
 toc_icon: "cog"
 ---
