@@ -9,18 +9,18 @@ toc_icon: "cog"
 ---
 
 
-To make the energy consumption and emissions accross different roasting machines comparable, any standardized roast process has to tackle a number of problems.
+To make the energy consumption and emissions across different roasting machines comparable, any standardized roast process has to tackle a number of problems.
 
 * **P1: Beans**  
 energy consumption on roasting depends on the type of beans (density, size,..) and their state (moisture, temperature,..)
 * **P2: Batch size, drum speed, air flow**  
 batch size, drum speed and especially air flow influence the energy consumption considerable
-* **P3: Acuracy of temperature measurements**  
+* **P3: Accuracy of temperature measurements**  
 temperature measures taken are not easily comparable across machines due to different probes and their placements
 * **P4: Pre-heating**  
 the thermic state of the roasting machine before starting a roast influences largely the additional energy that has to be added during the roast to follow a certain profile
 * **P5: Exhaust air treatment**  
-for larger machines an afterburner is mandatory and its consumption needs to be accounted for (especially since some machines, like the Lorings, have an "integrated" afterburner). The degree of purity to be reached needs to be either fixed or measured and documented.
+for larger machines an afterburner is mandatory and its consumption needs to be accounted for (especially since some machines have an "integrated" afterburner). The degree of purity to be reached needs to be either fixed or measured and documented.
 * **P6: Roasting capacity**  
 roast times are not consistent across roasting machines due to differing capacity and heater rating
 * **P7: Roasting location**  
