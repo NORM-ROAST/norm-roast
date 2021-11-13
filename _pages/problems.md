@@ -24,7 +24,7 @@ for larger machines an afterburner is mandatory and its consumption needs to be 
 * **P6: Roasting capacity**  
 roast times are not consistent across roasting machines due to differing capacity and heater rating
 * **P7: Roasting location**  
-ambient air (temperature, pressure, density,..) and elevation of the roasting location can have effects on the roast parameters as well as consumption
+ambient air (temperature, pressure, humidity,..) and elevation of the roasting location can have effects on the roast parameters as well as consumption
 * **P8: In-between batches protocol**  
 different machines require different in-between batches protocols that needs to be accounted for on computing the total energy required
 * **P9: Sampling**  
