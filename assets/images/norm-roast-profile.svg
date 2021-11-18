@@ -5,12 +5,35 @@
    viewBox="0 0 520.061538 278.030769"
    version="1.1"
    id="svg1321"
+   sodipodi:docname="norm-roast-profile.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1123"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="3.0974253"
+     inkscape:cx="610.66848"
+     inkscape:cy="-0.48427318"
+     inkscape:window-width="1380"
+     inkscape:window-height="817"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1321" />
   <metadata
      id="metadata824">
     <rdf:RDF>
@@ -1210,69 +1233,6 @@
                          transform="scale(0.015625)" />
                     </defs>
                     <use
-                       xlink:href="#Dijkstra-73"
-                       id="use1250"
-                       x="0"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-70"
-                       x="52.001953"
-                       id="use1252"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-6f"
-                       x="108.81348"
-                       id="use1254"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-6e"
-                       x="166.82129"
-                       id="use1256"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-73"
-                       x="219.62891"
-                       id="use1258"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-6f"
-                       x="271.63086"
-                       id="use1260"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-72"
-                       x="329.63867"
-                       id="use1262"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-65"
-                       x="373.24219"
-                       id="use1264"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-64"
-                       x="420.43457"
-                       id="use1266"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
                        xlink:href="#Dijkstra-20"
                        x="478.44238"
                        id="use1268"
@@ -1280,128 +1240,9 @@
                        width="100%"
                        height="100%" />
                     <use
-                       xlink:href="#Dijkstra-62"
-                       x="537.03613"
-                       id="use1270"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-79"
-                       x="604.24805"
-                       id="use1272"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
                        xlink:href="#Dijkstra-20"
                        x="665.4541"
                        id="use1274"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-73"
-                       x="724.04785"
-                       id="use1276"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-77"
-                       x="776.0498"
-                       id="use1278"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-65"
-                       x="856.05469"
-                       id="use1280"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-65"
-                       x="903.24707"
-                       id="use1282"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-74"
-                       x="950.43945"
-                       id="use1284"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-6d"
-                       x="997.63184"
-                       id="use1286"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-61"
-                       x="1083.6426"
-                       id="use1288"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-72"
-                       x="1138.0371"
-                       id="use1290"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-69"
-                       x="1181.6406"
-                       id="use1292"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-61"
-                       x="1211.6455"
-                       id="use1294"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-73"
-                       x="1266.04"
-                       id="use1296"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-2e"
-                       x="1318.042"
-                       id="use1298"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-63"
-                       x="1358.0322"
-                       id="use1300"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-6f"
-                       x="1410.0342"
-                       id="use1302"
-                       y="0"
-                       width="100%"
-                       height="100%" />
-                    <use
-                       xlink:href="#Dijkstra-6d"
-                       x="1468.042"
-                       id="use1304"
                        y="0"
                        width="100%"
                        height="100%" />
