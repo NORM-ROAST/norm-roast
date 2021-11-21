@@ -152,9 +152,7 @@ Elec |    500 g/kWh = 1000 g/kWh * 50% | (*)
 
 The test cycle has to be fully documented by filling the following form.
 
-<center>
 [NORM ROAST Consumption & Emissions Form](../assets/docs/norm-roast-form.pdf)
-</center>
 
 Additionally, supporting measuring protocols, like roast, emissions and consumption logs should be provided.
 
