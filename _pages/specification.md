@@ -68,7 +68,7 @@ Parameter   | Range
 temperature | 20 – 30°C
 pressure    | 950 – 1050 hPa
 
-## Beans
+## Raw Coffee Beans
 
 The raw coffee beans used in the test cycle have to be washed arabica with the following properties
 
@@ -79,7 +79,7 @@ bulk density | 670 – 730 g/l
 screen size | 17/18 1/64"
 temperature | 20 – 30°C
 
-# Profile
+# Roast Profile
 
 The test roasts have to heat up the coffee beans such that the audible popping sound of first-crack (FCs) occurs 10:00min into the roast and the roast ends (DROP) after 12:30min at a bean temperature by 10°C higher than that at FCs.
 
@@ -109,7 +109,7 @@ Energy consumption and CO<sub>2</sub> emissions are reported per kg of green cof
 
 Gas consumption is usually measured in volume. The following formulas are used to convert the gas volume to energy consumption in kWh and energy consumption to estimated CO<sub>2</sub> emissions.
 
-## Energy per gas volume
+## Energy
 
 Given the measured gas volume, the energy consumed calculates as
 
@@ -126,7 +126,7 @@ CV | Calorific Value | gas energy content per volume
 
 
 
-## CO<sub>2</sub> per energy
+## CO<sub>2</sub>
 
 The CO<sub>2</sub> emitted per energy consumed calculates as
 
@@ -150,7 +150,7 @@ Elec |    500 g/kWh = 1000 g/kWh * 50% | (*)
 
 The test cycle has to be fully documented by filling the following form.
 
-[NORM ROAST Consumption & Emissions Form](../assets/docs/norm-roast-form.pdf)
+[NORM ROAST Consumption & Emissions Form](../assets/docs/norm-roast-form.pdf){:target="_blank"}
 
 Additionally, supporting measuring protocols, like roast, emissions and consumption logs should be provided.
 
