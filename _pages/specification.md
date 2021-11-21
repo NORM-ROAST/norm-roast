@@ -8,8 +8,6 @@ toc_label: "On this page"
 toc_icon: "cog"
 ---
 
-# Introduction
-
 The NORM ROAST protocol allows the standardized assesment of the levels of pollutants, CO<sub>2</sub> emissions and energy consumption of small to mid-size batch coffee roasting machines.
 
 # Abbrevations
