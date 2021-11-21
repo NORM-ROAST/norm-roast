@@ -107,6 +107,8 @@ The pollutants have to be measured in the exhaust according to the corresponding
 
 # Calculation
 
+Energy consumption and CO<sub>2</sub> emissions are reported per kg of green coffee. Thus the calculated consumption and emission values are divided by the total amount of raw coffee roasted during the measurement cycle.
+
 Gas consumption is usually measured in volume. The following formulas are used to convert the gas volume to energy consumption in kWh and energy consumption to estimated CO<sub>2</sub> emissions.
 
 ## Energy per gas volume
