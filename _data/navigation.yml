@@ -3,6 +3,8 @@ main:
     url: /requirements/
   - title: "Problems"
     url: /problems/
+  - title: "Specification"
+    url: /specification/
   - title: "Updates"
     url: /updates/index
   - title: "About"
