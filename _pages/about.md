@@ -40,7 +40,7 @@ gallery:
 
 ## Consortium
 
-NORM-ROAST is supported by an open group of companies and field experts from around the globe. If you want to join, please use the form below to contact us!
+NORM-ROAST is supported by an open group of companies and field experts from around the globe. If you want to join us free of any charge, please use the form below to contact us!
 
 ### Companies
 
