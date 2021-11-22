@@ -48,11 +48,11 @@ The concentrations of pollutants measured in the exhaust air are averaged over t
 
 Pollutant  | Standard
 ---------- | -------------
-CO<sub>2</sub> | ISO 12039
-CO  | ISO 12039
-NO<sub>x</sub> | ISO 10849
-SO<sub>2</sub> | ISO 7935
-PM  | ISO 9096
+CO<sub>2</sub> | [ISO 12039](https://www.iso.org/standard/71638.html)
+CO  | [ISO 12039](https://www.iso.org/standard/71638.html)
+NO<sub>x</sub> | [ISO 10849](https://www.iso.org/standard/18881.html)
+SO<sub>2</sub> | [ISO 7935](https://www.iso.org/standard/14905.html)
+PM  | [ISO 9096](https://www.iso.org/standard/70547.html)
 
 ## Pre-Conditions
 
