@@ -12,11 +12,11 @@ gallery:
     alt: "Buckeye Coffee"
     title: "Buckeye Coffee"
   - url: https://hb-roaster.com/
-    image_path: /assets/images/hb-logo.png
+    image_path: /assets/images/HB-logo.png
     alt: "HB-Roaster"
     title: "HB-Roaster"
   - url: https://www.imf-srl.com/
-    image_path: /assets/images/imf-logo.png
+    image_path: /assets/images/IMF-logo.png
     alt: "IMF SRL"
     title: "IMF SRL"
   - url: https://www.ip-cc.com/
@@ -32,7 +32,7 @@ gallery:
     alt: "Probat"
     title: "Probat"
   - url: https://voltumachine.eu/
-    image_path: /assets/images/vm-logo.png
+    image_path: /assets/images/VM-logo.png
     alt: "Voltumachine"
     title: "Voltumachine"
 ---
