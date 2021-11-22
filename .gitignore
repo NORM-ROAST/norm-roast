@@ -1,7 +1,7 @@
 /*.DS_Store
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
 assets/images/.DS_Store
 assets/images/gsg/.DS_Store

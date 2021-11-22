@@ -109,10 +109,8 @@ Gas consumption is usually measured in volume. The following formulas are used t
 
 Given the measured gas volume, the energy consumed calculates as
 
-<center>
-Energy (kWh) = Volume (m<sup>3</sup>) x CF x CV (kWh/m<sup>3</sup>)
-</center>
-
+> Energy (kWh) = Volume (m<sup>3</sup>) x CF x CV (kWh/m<sup>3</sup>)
+  
 with
 
 Constant | Name | Description 
@@ -126,9 +124,7 @@ CV | Calorific Value | gas energy content per volume
 
 The CO<sub>2</sub> emitted per energy consumed calculates as
 
-<center>
-CO<sub>2</sub> (g) = Energy (kWh) * C (g/kWh)
-</center>
+> CO<sub>2</sub> (g) = Energy (kWh) * C (g/kWh)
 
 with the factor C as
 
