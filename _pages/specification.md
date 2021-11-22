@@ -44,9 +44,9 @@ The batch size and other process parameters have to be choosen to meet the requi
 
 ### Pollutants
  
-The concentrations of pollutants measured in the exhaust air are averaged over the complete test cycle. Calibrated, validated and well maintained instruments have to be applied according to the instructions of their manufacturer and the relevant ISO norms.
+The concentrations of pollutants measured in the exhaust air are averaged over the complete test cycle. Calibrated, validated and well maintained instruments have to be applied according to the instructions of their manufacturer and the relevant international standard.
 
-Pollutant  | ISO NORM
+Pollutant  | Standard
 ---------- | -------------
 CO<sub>2</sub> | ISO 12039
 CO  | ISO 12039
