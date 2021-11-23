@@ -85,4 +85,4 @@ Public requests, technical discussions and contributions are discussed on the [N
 
 ## License
 
-All information and documents provided by this site are published under the [GFDLv1.3 License](https://www.gnu.org/licenses/fdl-1.3.en.html){:target="_blank"}.
+All information and documents provided on this site are published under the [GFDLv1.3 License](https://www.gnu.org/licenses/fdl-1.3.en.html){:target="_blank"}.
