@@ -11,6 +11,10 @@ gallery:
     image_path: /assets/images/bc-logo.jpg
     alt: "Buckeye Coffee"
     title: "Buckeye Coffee"
+  - url: https://www.giesen.com/
+    image_path: /assets/images/giesen-logo.png
+    alt: "Giesen"
+    title: "Giesen"
   - url: https://hb-roaster.com/
     image_path: /assets/images/HB-logo.png
     alt: "HB-Roaster"
