@@ -11,6 +11,10 @@ gallery:
     image_path: /assets/images/bc-logo.jpg
     alt: "Buckeye Coffee"
     title: "Buckeye Coffee"
+  - url: https://www.coffee-tech.com/
+    image_path: /assets/images/cte-logo.jpg
+    alt: "Coffee-Tech Engineering"
+    title: "Coffee-Tech Engineering"
   - url: https://coffeetool.gr/
     image_path: /assets/images/coffeetool-logo.png
     alt: "Coffeetool"
