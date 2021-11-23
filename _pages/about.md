@@ -23,18 +23,22 @@ gallery:
     image_path: /assets/images/IP-CC-logo.jpg
     alt: "IP-CC"
     title: "IP-CC"
-  - url: https://typhoon.coffee/
-    image_path: /assets/images/typhoon-logo.png
-    alt: "Typhoon"
-    title: "Typhoon"
   - url: https://www.probat.com/
     image_path: /assets/images/probat-logo.jpg
     alt: "Probat"
     title: "Probat"
+  - url: https://typhoon.coffee/
+    image_path: /assets/images/typhoon-logo.png
+    alt: "Typhoon"
+    title: "Typhoon"
   - url: https://voltumachine.eu/
     image_path: /assets/images/VM-logo.png
     alt: "Voltumachine"
     title: "Voltumachine"
+  - url: https://vortxkleanair.com/
+    image_path: /assets/images/vortX-logo.png
+    alt: "VortX"
+    title: "VortX"
 ---
 
 
