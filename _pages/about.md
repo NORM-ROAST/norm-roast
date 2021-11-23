@@ -11,6 +11,10 @@ gallery:
     image_path: /assets/images/bc-logo.jpg
     alt: "Buckeye Coffee"
     title: "Buckeye Coffee"
+  - url: https://coffeetool.gr/
+    image_path: /assets/images/coffeetool-logo
+    alt: "Coffeetool"
+    title: "Coffeetool"
   - url: https://www.giesen.com/
     image_path: /assets/images/giesen-logo.png
     alt: "Giesen"
