@@ -56,7 +56,7 @@ gallery:
 
 ## Consortium
 
-NORM-ROAST is supported by an open group of companies and field experts from around the globe. If you want to join us free of any charge, please use the form below to contact us!
+NORM ROAST is supported by an open group of companies and field experts from around the globe. If you want to join us free of any charge, please use the form below to contact us!
 
 ### Companies
 
@@ -75,7 +75,7 @@ NORM-ROAST is supported by an open group of companies and field experts from aro
 
 ## Discussions
 
-Public requests, technical discussions and contributions are discussed on the [NORM-ROAST Discussion Forum](https://github.com/NORM-ROAST/norm-roast/discussions){:target="_blank"} hosted on GitHub ([Learn how to Subscribe to Discussions](/discussions)).
+Public requests, technical discussions and contributions are discussed on the [NORM ROAST Discussion Forum](https://github.com/NORM-ROAST/norm-roast/discussions){:target="_blank"} hosted on GitHub ([Learn how to Subscribe to Discussions](/discussions)).
 
 
 ## Contact
