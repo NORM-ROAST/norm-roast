@@ -12,7 +12,7 @@ gallery:
     alt: "Buckeye Coffee"
     title: "Buckeye Coffee"
   - url: https://coffeetool.gr/
-    image_path: /assets/images/coffeetool-logo
+    image_path: /assets/images/coffeetool-logo.png
     alt: "Coffeetool"
     title: "Coffeetool"
   - url: https://www.giesen.com/
