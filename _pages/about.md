@@ -86,6 +86,17 @@ Public requests, technical discussions and contributions are discussed on the [N
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1d4HrASFiK_Hw92cymDLy5sS-aLBT1nnD-3mgrcUtOswMWQ/viewform?embedded=true" width="640" height="1016" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+## Designs
+
+### Icon
+
+- [norm-roast-icon.pdf](/assets/images/norm-roast-icon.pdf){:target="_blank"} (PDF)
+- [norm-roast-icon-inverted.pdf](/assets/images/norm-roast-icon-inverted.pdf){:target="_blank"} (PDF)
+
+### Logo
+
+- [norm-roast-logo.pdf](/assets/images/norm-roast-logo.pdf){:target="_blank"} (PDF)
+- [norm-roast-logo-inverted.pdf](/assets/images/norm-roast-logo-inverted.pdf){:target="_blank"} (PDF)
 
 ## License
 
