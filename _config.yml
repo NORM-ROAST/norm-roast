@@ -20,7 +20,7 @@ title                    : "NORM ROAST"
 title_separator          : "-"
 #subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : &name "NORM ROAST Working Group"
-description              : &description "A global harmonised standard for determining the levels of pollutants, CO2 emissions and energy consumption of small to mid-size coffee roasting machines"
+description              : &description "A global standard for determining the levels of pollutants, CO2 emissions and energy consumption of small to mid-size coffee roasting machines"
 url                      : "https://norm-roast.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "norm-roast/norm-roast" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
