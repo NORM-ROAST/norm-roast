@@ -19,6 +19,10 @@ gallery:
     image_path: /assets/images/coffeetool-logo.png
     alt: "Coffeetool"
     title: "Coffeetool"
+  - url: http://espressos.dk/
+    image_path: /assets/images/espressos-logo.png
+    alt: "Espressós"
+    title: "Espressós"
   - url: https://www.giesen.com/
     image_path: /assets/images/giesen-logo.png
     alt: "Giesen"
