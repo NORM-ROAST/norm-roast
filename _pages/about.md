@@ -70,7 +70,7 @@ NORM ROAST is supported by an open group of companies and field experts from aro
 
 - Dave Baxter (US)
 - Chris Kornman (US)
-- Fotis Levas (GR)
+- Fotis Lefas (GR)
 - Marko Luther (DE)
 - Scott Rao (US)
 - Rodrigo Ramos (BR)
