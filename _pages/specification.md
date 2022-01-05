@@ -136,7 +136,7 @@ Propane | 214.56 g/kWh | [1]
 NG |      180.54 g/kWh | [1]
 Elec |    385.55 g/kWh | (*)
 
-(*) : the CO2 emissions for electric energy depends on the clean electric energy mix. To make the results comparable we estimate the CO2 emission by taking the average CO2 emissions across all generation sources in the U.S. for 2020 including carbon neutral sources, which is 0.85 pounds of CO2 per kWh (385.55 g/kWh) [1]. For specific countries or utilities where carbon neutral sources are greater the actual figure could be significantly lower.
+(*) : the CO2 emissions for electric energy depends on the clean electric energy mix. To make the results comparable we estimate the CO2 emission by taking the average CO2 emissions across all generation sources in the U.S. for 2020 including carbon neutral sources, which is 0.85 pounds of CO2 per kWh (385.55 g/kWh) [2]. For specific countries or utilities where carbon neutral sources are greater the actual figure could be significantly lower.
 
 
 
