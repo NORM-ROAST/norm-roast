@@ -101,9 +101,11 @@ The pollutants have to be measured in the exhaust according to the corresponding
 
 ## Calculation
 
-Energy consumption and CO<sub>2</sub> emissions are reported per kg of green coffee. Thus the calculated consumption and emission values are divided by the total amount of raw coffee roasted during the measurement cycle.
+Energy consumption and CO<sub>2</sub> emissions are reported per kg of green coffee. Thus the calculated consumption and emission values (pre-heating + roasting 4 batches) are divided by the total amount of raw coffee roasted during the measurement cycle (4 batches). Note that the batch size should be chosen to minimize the consumption per kg and does not need to correspond to the nominal batch size of the machine as indicated by the manufacturer.
 
 Gas consumption is usually measured in volume. The following formulas are used to convert the gas volume to energy consumption in kWh and energy consumption to estimated CO<sub>2</sub> emissions.
+
+Note that the measuring cycle starts with the start of the pre-heat process and ends after batch #4 is released from the drum. The total duration of the cylce includes also the time spent between roasting the 4 batches (between batches protocol).
 
 ### Energy
 
@@ -132,9 +134,10 @@ Type | C | Reference
 ----- | ---- | ----
 Propane | 214.56 g/kWh | [1]
 NG |      180.54 g/kWh | [1]
-Elec |    500 g/kWh = 1000 g/kWh * 50% | (*)
+Elec |    385.55 g/kWh | (*)
 
-(*) :  the CO2 emissions for electric energy depends on the clean electric energy mix. For the U.S. energy generation in 2020 we have C = 1011.51 g/kWh [2]. To get comparable numbers we take C = 1000 g/kWh and assume a clean electric energy mix of 50%.
+(*) : the CO2 emissions for electric energy depends on the clean electric energy mix. To make the results comparable we estimate the CO2 emission by taking the average CO2 emissions across all generation sources in the U.S. for 2020 including carbon neutral sources, which is 0.85 pounds of CO2 per kWh (385.55 g/kWh) [1]. For specific countries or utilities where carbon neutral sources are greater the actual figure could be significantly lower.
+
 
 
 ## Report
@@ -143,7 +146,12 @@ The test cycle has to be fully documented by filling the following form.
 
 [NORM ROAST Consumption & Emissions Form](../assets/docs/norm-roast-form.pdf){:target="_blank"}
 
+A filled-out example of that form is provided here.
+
+[NORM ROAST Consumption & Emissions Form](../assets/docs/norm-roast-form-example.pdf){:target="_blank"}
+
 Additionally, supporting measuring protocols, like roast, emissions and consumption logs should be provided.
+
 
 ## References
 
