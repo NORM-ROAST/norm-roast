@@ -7,7 +7,7 @@ permalink: /updates/
 sort_by: title
 ---
 
-- [NORM ROAST – A Protocol to Compare Energy Efficiency in Roasting Machines](http://roastmagazine.com/currentissue/Roast_Feature_NORMROAST.html)
+- [NORM ROAST – A Protocol to Compare Energy Efficiency in Roasting Machines](http://roastmagazine.com/currentissue/Roast_Feature_NORMROAST.html)  
 by Marko Luther and Dave Baxter (Roast Magazine March/April 2022)  
 
 <!---
