@@ -88,7 +88,7 @@ DROP  | 12:30min   | t<sub>FCs</sub> + 10°C
 
 ## Measurement Cycle
 
-The full measurement cycle takes about one hour and includes the pre-heating of the machine from room temperature and 4 roast batches that follow the profile specified in the previous section.
+The full measurement cycle includes the pre-heating of the machine from room temperature and 4 roast batches that follow the profile specified in the previous section.
 
 The batch size must be the same for each of the 4 roast batches and chosen such that each batch meets the Roast Profile times and temperatures defined above. 
 
