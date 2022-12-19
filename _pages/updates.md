@@ -7,6 +7,7 @@ permalink: /updates/
 sort_by: title
 ---
 
+
 - [Make it a Standard!](https://www.probat.com/epaper-probatmagazine_1_2022_Kunden/epaper/ausgabe.pdf){:target="_blank"} (July 15, 2022)  
 Guest commentary by Marko Luther and Dave Baxter ([Probat Magazine](https://www.probat.com/en/company/news/probat-magazine), 1/2022)
 
