@@ -16,7 +16,7 @@ Podcast on NORM ROAST with Chris and Dave
 - [Definition of a NORM ROAST](https://www.probat.com/en/events/detail/show/definition-of-a-norm-roast_276/){:target="_blank"} (March 11, 2022)  
 Probat [POP UP on NORM ROAST](https://www.youtube.com/watch?v=MmVuMpGIv74){:target="_blank"}
 
-- [NORM ROAST – A Protocol to Compare Energy Efficiency in Roasting Machines](http://roastmagazine.com/currentissue/Roast_Feature_NORMROAST.html){:target="_blank"}  
+- [NORM ROAST – A Protocol to Compare Energy Efficiency in Roasting Machines](https://www.roastmagazine.com/stories/norm-roast-a-protocol-to-compare-energy-efficiency-in-roasting-machines){:target="_blank"}  
 by Marko Luther and Dave Baxter (Roast Magazine March/April 2022)  
 
 <!---
