@@ -8,7 +8,7 @@ sort_by: title
 ---
 
 - NORM ROAST – Η ECO-FRIENDLY ΠΛΑΤΦΟΡΜΑ ΚΑΒΟΥΡ∆ΙΣΜΑTOΣ  
-by Fotis Lefas and Marko Luther ([Snack & Coffee](https://www.forumsa.gr/ekdoseis/snack-coffee/){:target="_blank"} #106, March/April 2023)
+by Fotis Lefas and Marko Luther ([Snack & Coffee](https://www.forumsa.gr/ekdoseis/snack-coffee/){:target="_blank"} #104, November/December 2022)
 
 - [Make it a Standard!](https://www.probat.com/epaper-probatmagazine_1_2022_Kunden/epaper/ausgabe.pdf){:target="_blank"} (July 15, 2022)  
 Guest commentary by Marko Luther and Dave Baxter ([Probat Magazine](https://www.probat.com/en/company/news/probat-magazine), 1/2022)
